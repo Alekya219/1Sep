@@ -1,7 +1,7 @@
 
 variable "key_name" {
   description = "Private key name to use with instance"
-  default     = "Aug21"
+  default     = "4Sep"
 }
 
 variable "instance_type" {
